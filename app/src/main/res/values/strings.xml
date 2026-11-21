@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ذكرني</string>
+    <string name="widget_desc">التاريخ الهجري والميلادي وعدّاد صلواتك اليوم</string>
+    <string name="widget_btn">صلِّ على النبي</string>
+</resources>
